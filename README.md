@@ -5,7 +5,13 @@ A very simple way of determining user's geolocation and redirecting them to thei
 
 Click for video:
 
-<a href="https://youtu.be/-Cd1mV5HtjA" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+<a href="https://youtu.be/bNeTJgbJ3_A" target="_blank"><img src="https://github.com/net2devcrypto/misc/blob/main/ytlogo2.png" width="150" height="40"></a>
+
+#How to
+
+Populate the "gateway" array with the gateway urls. Save and run.
+
+The return from "checkLatency" would be the fastest url to make the API call.
 
 #Code
 
